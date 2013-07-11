@@ -1,0 +1,7 @@
+target/*
+.DS_Store
+.history
+project/target
+project/project/target
+target
+tmp
